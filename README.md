@@ -6,7 +6,7 @@
 
 > A production-grade, highly available web application deployed on AWS using a three-tier architecture pattern with automatic scaling, load balancing, and multi-AZ database replication.
 
-![Architecture Diagram](./docs/Three Tier Web Application.drawio.png)
+![Architecture Diagram](./docs/architecture_diagram.drawio.png)
 
 ## 📋 Table of Contents
 
