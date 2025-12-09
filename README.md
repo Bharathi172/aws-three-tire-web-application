@@ -2,7 +2,6 @@
 
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 [![Architecture](https://img.shields.io/badge/Architecture-Multi--Tier-blue?style=for-the-badge)](https://github.com/yourusername/aws-three-tier-app)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 > A production-grade, highly available web application deployed on AWS using a three-tier architecture pattern with automatic scaling, load balancing, and multi-AZ database replication.
 
@@ -23,7 +22,6 @@
 - [Troubleshooting](#troubleshooting)
 - [Future Enhancements](#future-enhancements)
 - [Lessons Learned](#lessons-learned)
-- [License](#license)
 
 ---
 
@@ -648,12 +646,6 @@ Database Storage:
 - Health checks at every layer
 - Auto Scaling for self-healing
 - CloudWatch monitoring enabled
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
